@@ -1,0 +1,8 @@
+.answer-contact {
+    background-color: var(--primary-color) !important;
+
+}
+
+.no-answer-contact {
+    background-color: red !important;
+}

@@ -1,0 +1,7 @@
+.login-form__btn-success {
+    background-color: var(--primary-color);
+}
+
+.login-form__btn-error {
+    background-color: red;
+}

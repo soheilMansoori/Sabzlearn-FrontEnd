@@ -1,0 +1,11 @@
+.fa-star {
+    color: #e8e808;
+}
+
+.answer-comment {
+    background-color: var(--primary-color) !important;
+}
+
+.no-answer-comment {
+    background-color: red !important;
+}
